@@ -2,7 +2,7 @@
 
 ⚡ I'm betelgei5e
 
-⚡ I'm learning programming in the following languages:
+⚡ I'm learning how to program in the following languages:
 
 ⚡ Python
 
