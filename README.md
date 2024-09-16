@@ -1,4 +1,9 @@
 ## Hi there 👋
 
-- ⚡ Fun fact: betelgei5e is me
+⚡ I'm betelgei5e
 
+⚡ I'm learning programming in the following languages:
+
+⚡ Python
+
+⚡ C
