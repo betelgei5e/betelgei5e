@@ -9,5 +9,3 @@
 ⚡ C
 
 ⚡ Assembly
-
-Other
