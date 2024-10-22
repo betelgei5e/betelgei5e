@@ -1,11 +1,7 @@
-## Hi there 👋
+## Hi there, I'm betelgei5e 👋
 
-⚡ I'm betelgei5e
+⚡ I'm currently learning programming in the following languages:
 
-⚡ I'm learning programming in the following languages:
-
-⚡ Python
-
-⚡ C
-
-⚡ Assembly
+    ⚡ Python
+    ⚡ C
+    ⚡ Assembly
