@@ -1,4 +1,4 @@
-## Hi there, I'm betelgei5e 👋
+## Hi there, I'm betelgei5e! 👋
 
 ⚡ I'm currently learning programming in the following languages:
 
